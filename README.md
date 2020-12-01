@@ -3,7 +3,7 @@ Course Project: Counting People in a Shopping Mall ECSE 415 (Fall 2020) @ McGill
 
 ## Importing the Frames Dataset
 
-1. Please un-zip the frames.zip file in this repository.
+1. Please un-zip the "frames.zip" file in this repository.
 2. Upload the un-zipped folder called "frames" directly to the home directory of your Goole Drive. 
 3. Open the Jupyter Notebook in Google Colab. Make sure you use the same Google account as the previous step. 
 4. Run the Jupyter Notebook in Google Colab. Please follow the instrcutions given by Google Colab at runtime in order to grant the program access to the "frames" dataset saved in your Google Drive.
