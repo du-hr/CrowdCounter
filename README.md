@@ -1,7 +1,7 @@
 # CrowdCounter
 Course Project: Counting People in a Shopping Mall ECSE 415 (Fall 2020) @ McGill University
 
-##List of Parameters to Play with (so far)
+## List of Parameters to Play with (so far)
 
 1. Number of images used in the dataset for creating the training data
 2. Number of random non-people used for each image for creating the training data
